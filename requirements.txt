@@ -14,7 +14,7 @@ ffmpeg-python
 Faker
 future==1.0.0
 Flask==2.2.2
-gunicorn==20.1.0
+gunicorn==22.0.0
 git+https://github.com/AsmSafone/SafoneAPI
 gitpython
 geopy
